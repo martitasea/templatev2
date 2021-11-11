@@ -1,4 +1,11 @@
-# plantilla-visor-react
+# plantilla
+
+Dependencias
+---
+- React 17.0.0
+- Storybook 6.3.12
+- Webpack 5.60.0
+- Material UI 4.11.1
 
 Plantilla para un proyecto con React, MUI y storybook
 ---
